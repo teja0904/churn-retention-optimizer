@@ -1,0 +1,25 @@
+# Data & Outputs
+data/
+logs/
+checkpoints/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
